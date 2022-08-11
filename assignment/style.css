@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white; 
+}
+header { 
+    background-color: blueviolet;
+    color:white;
+    padding-left: 20px;
+}
+.info {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    border: solid; color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+}
+h2 {
+    background-color: rgb(47, 64, 255);
+    color: wheat;
+    border: solid; color: white;
+}
+h3 {
+    background-color: blueviolet;
+    color: greenyellow;
+    margin-bottom: 7px;
+    border: solid; color: white;
+}
