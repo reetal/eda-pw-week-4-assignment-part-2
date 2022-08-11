@@ -19,10 +19,14 @@ h2 {
     background-color: rgb(47, 64, 255);
     color: wheat;
     border: solid; color: white;
+    border-left: 0px;
+    border-right: 0px;
 }
 h3 {
     background-color: blueviolet;
     color: greenyellow;
     margin-bottom: 7px;
     border: solid; color: white;
+    border-left: 0px;
+    border-right: 0px;
 }
